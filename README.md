@@ -7,11 +7,14 @@ transfer money between accounts and recipients, view transactions, make appointm
 There are two roles user and admin. 
 
 The admin has there own fronent implemented in Angular2, which communicates with backend through REST services.
-Link to the admin portal project:
 
-There is a sql dump with prepopulated data inside project folder. The username and password for database: root
+Link to the admin portal project: https://github.com/dmitrykhramov/Admin-Portal-Angular2
+
+There is a sql dump with prepopulated data inside project folder. 
+The username and password for database: root
+
 You can login with:
-User - password
+User - password;
 Admin - password
 
 ![capture](https://cloud.githubusercontent.com/assets/18744749/21913805/73f36774-d937-11e6-8ea0-d9108bd99e1f.PNG)
